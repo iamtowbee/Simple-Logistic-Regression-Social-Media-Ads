@@ -1,4 +1,4 @@
-# Logistic regression analysis on Boston housing dataset
+# Logistic regression analysis on social media ads data
 
 - Built a logistic regression model to predict if a person will purchase a product or not by utilizing the binary classification statistical method.
 
